@@ -29,6 +29,7 @@
 		  logseq.order-list-type:: number
 			- Two types of related goods:
 				- logseq.order-list-type:: number
+				  id:: 6508271a-aa0b-48bd-88b7-f00e618da661
 				  #+BEGIN_PINNED
 				  **Substitutes** are goods that when their prices fall, consumers are less likely to buy another good.
 				  #+END_PINNED
