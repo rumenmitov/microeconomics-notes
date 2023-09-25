@@ -4,22 +4,24 @@
 	  #+END_PINNED
 	- #+BEGIN_PINNED
 	  **Individual consumer surplus** is the net gain to an individual buyer from the purchase of a good. 
-	  equal to difference between the buyer's willingness to pay and the price paid.
 	  #+END_PINNED
-	- graph  09:09
+		- #+BEGIN_IMPORTANT
+		  *individual consumer surplus* = ==buyer's willingness to pay== - ==price paid==
+		  #+END_IMPORTANT
+	- ![image.png](../assets/image_1695648385211_0.png)
 	- #+BEGIN_PINNED
-	  **Total consumer surplus** is the sum of the individual  consumer surpluses. 
+	  **Total consumer surplus** is the sum of all the individual consumer surpluses. 
 	  #+END_PINNED
-	- some info here
-	- Total consumer surplus is the *area* between the *demand curve* and the *equilibrium price*.
-	- graph 09:13
-	- Factors that change consumer surplus:
-		- Changing prices
-		  logseq.order-list-type:: number
-			- e.g. fall of price increases consumer surplus:
-				- gain to consumers who would have bought at original price
-				- gain to consumers persuaded to buy at lower price
-				- graph 10:29
+	- #+BEGIN_IMPORTANT
+	  *total consumer surplus* = ==area== between ==demand curve== and the ==equilibrium price==
+	  #+END_IMPORTANT
+	- ![image.png](../assets/image_1695648619783_0.png)
+	- ![image.png](../assets/image_1695648651192_0.png)
+	- Changing prices affects consumer surplus
+		- e.g. fall of price increases consumer surplus:
+			- gain to consumers who would have bought at original price
+			- gain to consumers persuaded to buy at lower price
+			- graph 10:29
 - # Producer Surplus
 	- #+BEGIN_PINNED
 	  **Cost**
