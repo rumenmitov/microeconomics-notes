@@ -38,3 +38,7 @@
 	- #+BEGIN_PINNED
 	  **Normative economics** makes prescriptions about the way the economy should work.
 	  #+END_PINNED
+	- id:: 65113e2b-c298-4452-abb7-9d672545ba70
+	  #+BEGIN_PINNED
+	  **Autarkic** means to not be involved in any trade.
+	  #+END_PINNED
