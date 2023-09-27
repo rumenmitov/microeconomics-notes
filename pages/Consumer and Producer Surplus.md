@@ -1,20 +1,26 @@
 # Consumer Surplus
 	- #+BEGIN_PINNED
-	  A consumer's **willingness to pay** for a good is the maximum price at which he or she would buy that good.
+	  A consumer's **willingness to pay** for a good is the maximum price at which he or she would buy that good. #definition 
 	  #+END_PINNED
 	- #+BEGIN_PINNED
-	  **Individual consumer surplus** is the net gain to an individual buyer from the purchase of a good. 
+	  **Individual consumer surplus** is the net gain to an individual buyer from the purchase of a good.  #definition 
 	  #+END_PINNED
-		- #+BEGIN_IMPORTANT
-		  *individual consumer surplus* = ==buyer's willingness to pay== - ==price paid==
-		  #+END_IMPORTANT
+		- Individual Consumer Surplus Formula #formula
+			- #+BEGIN_IMPORTANT
+			  #+BEGIN_EXPORT latex
+			  \textbf{individual consumer surplus} = \text{buyer's willingness to pay} - \text{price paid}
+			  #+END_EXPORT 
+			  #+END_IMPORTANT
 	- ![image.png](../assets/image_1695648385211_0.png)
 	- #+BEGIN_PINNED
-	  **Total consumer surplus** is the sum of all the individual consumer surpluses. 
+	  **Total consumer surplus** is the sum of all the individual consumer surpluses.  #definition 
 	  #+END_PINNED
-	- #+BEGIN_IMPORTANT
-	  *total consumer surplus* = ==area== between ==demand curve== and the ==equilibrium price==
-	  #+END_IMPORTANT
+	- Total Consumer Surplus Formula #formula
+		- #+BEGIN_IMPORTANT
+		  #+BEGIN_EXPORT latex
+		  \textbf{total consumer surplus} = \text{area between demand curve and the equilibrium price}
+		  #+END_EXPORT 
+		  #+END_IMPORTANT
 	- ![image.png](../assets/image_1695648619783_0.png)
 	- ![image.png](../assets/image_1695648651192_0.png)
 	- ## Changes in prices affects consumer surpluses
@@ -24,20 +30,26 @@
 			- ![image.png](../assets/image_1695648996646_0.png)
 - # Producer Surplus
 	- #+BEGIN_PINNED
-	  A potential seller's **cost** is the lowest price at which they are willing to sell a good.
+	  A potential seller's **cost** is the lowest price at which they are willing to sell a good. #definition 
 	  #+END_PINNED
 	- #+BEGIN_PINNED
-	  **Individual producer surplus** is the net gain to a seller from selling a good.
+	  **Individual producer surplus** is the net gain to a seller from selling a good. #definition 
 	  #+END_PINNED
-	- #+BEGIN_IMPORTANT
-	  individual producer surplus = ==price received== - ==seller's cost==
-	  #+END_IMPORTANT
+	- Individual Producer Surplus Formula #formula
+		- #+BEGIN_IMPORTANT
+		  #+BEGIN_EXPORT latex
+		  \textbf{individual producer surplus} = \text{price received} - \text{seller's cost}
+		  #+END_EXPORT 
+		  #+END_IMPORTANT
 	- ![image.png](../assets/image_1695649290027_0.png)
 	- #+BEGIN_PINNED
-	  **Total producer surplus** is the sum of all the individual producer surpluses.
+	  **Total producer surplus** is the sum of all the individual producer surpluses. #definition 
 	  #+END_PINNED
+	- Total Producer Surplus Formula #formula
 	- #+BEGIN_IMPORTANT
-	  *total producer surplus* = ==area above supply curve== but below ==equilibrium price==
+	  #+BEGIN_EXPORT latex
+	  \textbf{total producer surplus} = \text{area above supply curve but below equilibrium price}
+	  #+END_EXPORT 
 	  #+END_IMPORTANT
 	- ![image.png](../assets/image_1695649361845_0.png)
 	- ![image.png](../assets/image_1695649482152_0.png)
@@ -48,10 +60,13 @@
 			- ![image.png](../assets/image_1695649598054_0.png)
 - # Total Surplus
 	- #+BEGIN_PINNED
-	  **Total surplus** is the total net gain to *consumers* and *producers*.
+	  **Total surplus** is the total net gain to *consumers* and *producers*. #definition 
 	  #+END_PINNED
+	- Total Surplus Formula #formula
 	- #+BEGIN_IMPORTANT
-	  *total surplus* = ==consumer surplus== + ==producer surplus==
+	  #+BEGIN_EXPORT latex
+	  \textbf{total surplus} = \text{consumer surplus} + \text{producer surplus}
+	  #+END_EXPORT 
 	  #+END_IMPORTANT
 	- ![image.png](../assets/image_1695649798646_0.png)
 	- ## Why do markets work so efficiently?
