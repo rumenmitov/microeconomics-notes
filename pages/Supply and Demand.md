@@ -66,6 +66,8 @@
 			  #+END_PINNED
 		- Changes in the prices of related services or goods
 		  logseq.order-list-type:: number
+		- Changes in the prices of input goods
+		  logseq.order-list-type:: number
 		- Changes in technology
 		  logseq.order-list-type:: number
 		- Changes in expectations
@@ -83,7 +85,7 @@
 	  **Equilibrium** is when _quantity of a demanded good_ matches the _quantity of supplied of that good_.
 	  #+END_PINNED
 	- #+BEGIN_PINNED
-	  **Equilibrium price** is the price point at which the equilibrium takes place.
+	  **Equilibrium price** (a.k.a. **market clearing price**)is the price point at which the equilibrium takes place.
 	  #+END_PINNED
 	- #+BEGIN_PINNED
 	  **Equilibrium quantity** is the quantity at which the equilibrium takes place.
