@@ -30,7 +30,7 @@
 			- ![image.png](../assets/image_1695648996646_0.png)
 - # Producer Surplus
 	- #+BEGIN_PINNED
-	  A potential seller's **cost** is the lowest price at which they are willing to sell a good. #definition 
+	  A potential seller's **cost** is the lowest price at which they are willing to sell a good (i.e. the *minimal cost* to *supply the good*, which will cover the *opportunity cost* of supplying the good). #definition 
 	  #+END_PINNED
 	- #+BEGIN_PINNED
 	  **Individual producer surplus** is the net gain to a seller from selling a good. #definition 
@@ -78,7 +78,7 @@
 			- *mutually beneficial* -> everyone can benefit from the transaction
 				- ==buyer values good more than seller==
 			- #+BEGIN_NOTE
-			  *Buyers* for whom *price is too high* and *sellers* for whom *price is too low*, will not engage in the market
+			  *Buyers* for whom *price is too high* and *sellers* for whom *price is too low*, will not engage in the market. They are on the right side of the equilibrium point and their *consumer* / *producer surplus* is ==0==.
 			  #+END_NOTE
 			- i.e. ==no scarcities and efficient allocation of resources==
 	- ## Why do markets work so well?
