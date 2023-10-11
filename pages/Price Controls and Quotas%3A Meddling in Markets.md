@@ -6,15 +6,15 @@
   #+END_NOTE
 - Two types of government intervention:
 	- #+BEGIN_PINNED
-	  **price controls** - legal restrictions on how high (*price ceiling*) or low (*price floor*) a price can get
+	  **Price controls** are legal restrictions on how high (*price ceiling*) or low (*price floor*) a price can get. #definition 
 	  #+END_PINNED
 		- #+BEGIN_NOTE
 		  *Price ceilings* are generally imposed during crisis and benefit the lucky few in spite of another group of people.
 		  #+END_NOTE
 		- ![image.png](../assets/image_1697015266161_0.png)
-	- quantity
+	- Quantity quotas
 - #+BEGIN_PINNED
-  **Deadweight loss** is the loss of *total surplus* that occurs whenever a policy *reduces the quantity transacted* below the *efficient market equilibrium quantity*.
+  **Deadweight loss** is the loss of *total surplus* that occurs whenever a policy *reduces the quantity transacted* below the *efficient market equilibrium quantity*. #definition 
   #+END_PINNED
 	- Negative effects:
 		- there is an *inefficient allocation* to consumers.
@@ -28,10 +28,10 @@
 - ## Price floors
 	- e.g. minimum wage
 	- ![image.png](../assets/image_1697015413492_0.png)
-	- surplus
+	- Surplus created
 	- Negative effects:
-		- deadweight loss from inefficiently low quantity
-		- inefficient allocation of sales among sellers
+		- *deadweight loss* from inefficiently low quantity
+		- *inefficient allocation* of sales among sellers
 		- inefficiently high quality
 		- black markets
 	- ![image.png](../assets/image_1697015431589_0.png)
