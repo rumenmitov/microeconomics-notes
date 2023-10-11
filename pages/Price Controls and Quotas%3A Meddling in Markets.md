@@ -11,7 +11,7 @@
 		- #+BEGIN_NOTE
 		  *Price ceilings* are generally imposed during crisis and benefit the lucky few in spite of another group of people.
 		  #+END_NOTE
-		- graph 10:06 (effects of price ceiling)
+		- ![image.png](../assets/image_1697015266161_0.png)
 	- quantity
 - #+BEGIN_PINNED
   **Deadweight loss** is the loss of *total surplus* that occurs whenever a policy *reduces the quantity transacted* below the *efficient market equilibrium quantity*.
@@ -21,21 +21,20 @@
 		- wasted resources e.g. search costs
 		- inefficiently low quality
 		- black markets
-	- graph 10:15 (deadweight loss)
-	- graph 10:16
+	- ![image.png](../assets/image_1697015332985_0.png){:height 746, :width 704}
 		- lucky few benefit
 		- loss of consumer surplus
 		- loss of supplier surplus
 - ## Price floors
 	- e.g. minimum wage
-	- graph 10:40 (butter price floor)
+	- ![image.png](../assets/image_1697015413492_0.png)
 	- surplus
 	- Negative effects:
 		- deadweight loss from inefficiently low quantity
 		- inefficient allocation of sales among sellers
 		- inefficiently high quality
 		- black markets
-	- graph 10:44 (deadweight loss)
+	- ![image.png](../assets/image_1697015431589_0.png)
 	- {{renderer excalidraw, excalidraw-2023-10-02-10-48-08}}
 	- #+BEGIN_NOTE
 	  *Government intervention* can help when the market is *not in a equilibrium state* (i.e. it is not competitive).
