@@ -31,3 +31,10 @@ banner:: https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?crop=entro
 	  #+END_PINNED
 		- Raises domestic price above the *world price*, leading to a fall in trade and a rise in domestic production.
 		  id:: 653627f0-bc8e-4e70-b0e2-7ded224eb30b
+		- Government and domestic producers gain from tariffs, but consumers lose. There is also *deadweight loss*.
+		- ![image.png](../assets/image_1698048204279_0.png)
+		- ![image.png](../assets/image_1698048679220_0.png)
+	- Reasons for protectionism:
+		- national security
+		- job creation
+		- infant industry argument
