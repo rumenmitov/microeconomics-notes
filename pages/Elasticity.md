@@ -1,4 +1,6 @@
-- implementing policies that increase labour, are generally bad, because that labor could have been diverted somewhere more productive
+- #+BEGIN_NOTE
+  Implementing policies that *increase labor*, are generally bad, because that labor could have been diverted somewhere *more productive*.
+  #+END_NOTE
 - #+BEGIN_PINNED
   The **price elasticity of demand** is the ratio of the percent change in the *quantity demanded* to the percent change in the *price* as we move along the *demand curve*. #definition 
   #+END_PINNED

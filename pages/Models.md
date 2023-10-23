@@ -19,7 +19,8 @@
 	- Trade can take the amount of goods available past the PPF curve
 	- ![image.png](../assets/image_1695030078850_0.png)
 	- ![image.png](../assets/image_1695030134372_0.png)
-	- #+BEGIN_PINNED
+	- id:: 652cecb0-becc-4e36-af48-1fbf44f8e765
+	  #+BEGIN_PINNED
 	  **Comparative advantage** is when the opportunity cost of producing a good is lower for one party than it is for the other (i.e. when one party is *more efficient* than the other). #definition 
 	  #+END_PINNED
 	- #+BEGIN_PINNED
