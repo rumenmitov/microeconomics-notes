@@ -26,9 +26,17 @@
 	- #+BEGIN_IMPORTANT
 	  
 	  #+BEGIN_EXPORT latex
-	  \text{price elasticity of demand} = \frac{\text{\% change in quantity demanded}}{\text{\% change in price}}
+	  \text{price elasticity of demand} = \frac{\frac{\Delta{Q}}{Q}}{\frac{\Delta{P}}{P}} = \frac{P}{Q} \times \frac{\Delta{Q}}{\Delta{P}}
 	  #+END_EXPORT 
 	  #+END_IMPORTANT
+	- #+BEGIN_NOTE
+	  
+	  #+BEGIN_EXPORT latex
+	  \frac{\Delta{Q}}{\Delta{P}} \text{ is the gradient of the line curve}
+	  #+END_EXPORT 
+	  
+	  P and Q can be any points on the curve, e.g. *equilibrium* coordinates
+	  #+END_NOTE
 - #+BEGIN_NOTE
   
   #+BEGIN_EXPORT latex
@@ -91,7 +99,26 @@
   On a *straight-line demand curve*, the left side tends to be ==inelastic== and right side tends to be ==elastic==.
   #+END_NOTE
 	- ![image.png](../assets/image_1696838934599_0.png)
-- calculations for unit-elasticity
+- Unit Elasticity Formula #formula
+	- #+BEGIN_IMPORTANT
+	  Consider demand curve: *Q = a - bP*
+	  
+	  First we need to find where elasticity = 1. That would be when total revenue (TR) is either maximum or minimum. We know that:
+	  
+	  #+BEGIN_EXPORT latex
+	  \text{TR} = P \times Q = P \times (a - bP) = aP - bP^2 \\
+	  \text{So:} \\
+	  \frac{\delta{\text{TR}}}{\delta{P}} = a -2bP = 0 \text{ (we are trying to find extrema)} \\
+	  \implies P = \frac{a}{2b} \\
+	  \text{Taking the second derivative we get: } \\
+	  \frac{\delta^2{\text{TR}}}{\delta{P}^2} = -2b \\
+	  \text{Plugging in our extrema into our second derivative gives us a negative value.} \\
+	  \therefore \text{ Point is a maximum.}
+	  #+END_EXPORT
+	  
+	  If we go beyond that point, TR will drop which happens when region is elastic. 
+	  #+END_IMPORTANT
+	- {{renderer excalidraw, excalidraw-2023-10-18-10-50-03}}
 - Price elasticity of demand is determined by:
 	- availability of *substitutes*
 	- whether good is *necessity* or a *luxury*
