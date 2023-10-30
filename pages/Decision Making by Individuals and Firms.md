@@ -66,5 +66,5 @@ banner:: https://images.unsplash.com/photo-1429743305873-d4065c15f93e?crop=entro
 		  logseq.order-list-type:: number
 		- Overconfidence
 		  logseq.order-list-type:: number
-		- Unrealistic expectations about future behaviour
+		- Unrealistic expectations about future behavior
 		  logseq.order-list-type:: number
