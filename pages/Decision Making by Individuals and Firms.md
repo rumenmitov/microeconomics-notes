@@ -68,3 +68,48 @@ banner:: https://images.unsplash.com/photo-1429743305873-d4065c15f93e?crop=entro
 		  logseq.order-list-type:: number
 		- Unrealistic expectations about future behavior
 		  logseq.order-list-type:: number
+		- Counting dollars unequally (e.g. paying with cash vs with card)
+		  logseq.order-list-type:: number
+		- Loss aversion
+		  logseq.order-list-type:: number
+		- Framing bias
+		  logseq.order-list-type:: number
+		- Status quo bias
+		  logseq.order-list-type:: number
+- # Temporal Decisions
+	- #+BEGIN_PINNED
+	  **Time discounting** is the process whereby the individuals place a *lower value* on a gain or loss taking place at some point in the *future* rather than in the present. #definition 
+	  #+END_PINNED
+	- #+BEGIN_PINNED
+	  **Present value** is the value of on a given date of a series of future payments that are discounted at a rate reflecting time preferences. #definition 
+	  #+END_PINNED
+	- #+BEGIN_NOTE
+	  Interest rate compares the the value of a dollar today versus a dollar later.
+	  #+END_NOTE
+	- Interest Rate Formula #formula
+		- #+BEGIN_IMPORTANT
+		  
+		  #+BEGIN_EXPORT latex
+		  \text{\$1 in the present} = \frac{\text{\$1 in the future}}{1 + r} \text{, where r is the interest rate}
+		  #+END_EXPORT 
+		  #+END_IMPORTANT
+	- Present Value Formula #formula
+		- #+BEGIN_IMPORTANT
+		  
+		  #+BEGIN_EXPORT latex
+		  \text{Present Value (PV)} = \frac{\text{Inc}_1}{(1+r)^1} + \frac{\text{Inc}_2}{(1+r)^2} + \frac{\text{Inc}_3}{(1+r)^3} + \cdots
+		  #+END_EXPORT 
+		  #+END_IMPORTANT
+		- #+BEGIN_NOTE
+		  This represents *future cash-flow*, discounted to present money.
+		  #+END_NOTE
+	- Net Present Value Formula #formula
+		- #+BEGIN_IMPORTANT
+		  
+		  #+BEGIN_EXPORT latex
+		  \text{Net Present Value (NPV)} = \text{PV} - \text{initial investment}
+		  #+END_EXPORT 
+		  #+END_IMPORTANT
+		- #+BEGIN_NOTE
+		  Project is ==profitable== if *NPV > 0*.
+		  #+END_NOTE
