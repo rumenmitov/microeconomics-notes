@@ -109,6 +109,11 @@ banner:: https://images.unsplash.com/photo-1429743305873-d4065c15f93e?crop=entro
 		  #+BEGIN_EXPORT latex
 		  \text{Net Present Value (NPV)} = \text{PV} - \text{initial investment}
 		  #+END_EXPORT 
+		  
+		  
+		  #+BEGIN_EXPORT latex
+		  \text{Net Present Value (General)} = \Sigma_{t=0}^{T} \frac{B_t - C_t}{(1+r)^t}
+		  #+END_EXPORT 
 		  #+END_IMPORTANT
 		- #+BEGIN_NOTE
 		  Project is ==profitable== if *NPV > 0*.
