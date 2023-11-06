@@ -90,7 +90,7 @@ banner:: https://images.unsplash.com/photo-1429743305873-d4065c15f93e?crop=entro
 		- #+BEGIN_IMPORTANT
 		  
 		  #+BEGIN_EXPORT latex
-		  \text{\$1 in the present} = \frac{\text{\$1 in the future}}{1 + r} \text{, where r is the interest rate}
+		  \text{\$1 in the future} = \frac{\text{\$1 in the present}}{1 + r} \text{, where r is the interest rate}
 		  #+END_EXPORT 
 		  #+END_IMPORTANT
 	- Present Value Formula #formula
