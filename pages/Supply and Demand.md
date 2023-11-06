@@ -45,10 +45,12 @@
 				  #+END_PINNED
 		- Changes in income
 		  logseq.order-list-type:: number
-			- #+BEGIN_PINNED
+			- id:: 65489445-3eff-48e7-b2c2-5c45405b8f7b
+			  #+BEGIN_PINNED
 			  **Normal goods** are goods whose demand rises when income rises. #definition 
 			  #+END_PINNED
-			- #+BEGIN_PINNED
+			- id:: 65489445-3943-44d8-ad19-a7eedd164f83
+			  #+BEGIN_PINNED
 			  **Inferior goods** are goods whose demand decreases when income rises. #definition 
 			  #+END_PINNED
 		- Changes in taste

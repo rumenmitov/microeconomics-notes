@@ -25,3 +25,28 @@
   The **optimal consumption bundle** is the one that ==maximizes consumer utility== given their *budget constraint*. #definition 
   #+END_PINNED
 	- ![image.png](../assets/image_1699262825031_0.png)
+- #+BEGIN_PINNED
+  The **marginal utility per dollar** is the additional utility from spending one more dollar on a good or service. #definition 
+  #+END_PINNED
+- Marginal Utility per Dollar Formula #formula
+	- #+BEGIN_IMPORTANT
+	  
+	  #+BEGIN_EXPORT latex
+	  \text{marginal utility per dollar} = \frac{\text{marginal utility per unit of good}}{\text{cost per unit of of good}}
+	  #+END_EXPORT 
+	  #+END_IMPORTANT
+- #+BEGIN_NOTE
+  ==Optimal consumption bundle== is reached when the *marginal utility per dollar* of all goods in your *consumption bundle* is equalized.
+  #+END_NOTE
+	- #+BEGIN_EXPORT latex
+	  \frac{\text{marginal utility of good A}}{\text{price of good A}} = \frac{\text{marginal utility of good B}}{\text{price of good B}}
+	  #+END_EXPORT
+	- ![image.png](../assets/image_1699263415841_0.png)
+- #+BEGIN_PINNED
+  The **substitution effect** of a good is when its substitutes get *cheaper* and the original good has become relatively *more expensive*, hence ==less of the good is consumed.== #definition 
+  #+END_PINNED
+- #+BEGIN_PINNED
+  The **income effect** is the *change of quantity of good consumed* because there is a change in the ==purchasing power== of the consumer. #definition 
+  #+END_PINNED
+	-
+	- Normal goods
