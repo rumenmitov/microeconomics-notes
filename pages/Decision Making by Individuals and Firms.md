@@ -97,7 +97,7 @@ banner:: https://images.unsplash.com/photo-1429743305873-d4065c15f93e?crop=entro
 		- #+BEGIN_IMPORTANT
 		  
 		  #+BEGIN_EXPORT latex
-		  \text{Present Value (PV)} = \frac{\text{Inc}_1}{(1+r)^1} + \frac{\text{Inc}_2}{(1+r)^2} + \frac{\text{Inc}_3}{(1+r)^3} + \cdots
+		  \text{Present Value (PV)} = \frac{\text{Inc}_1}{(1+r)^1} + \frac{\text{Inc}_2}{(1+r)^2} + \frac{\text{Inc}_3}{(1+r)^3} + \cdots + \frac{\text{Inc}_t}{(1+r)^t}
 		  #+END_EXPORT 
 		  #+END_IMPORTANT
 		- #+BEGIN_NOTE
