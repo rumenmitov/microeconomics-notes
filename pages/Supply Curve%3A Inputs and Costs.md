@@ -101,3 +101,5 @@
 - #+BEGIN_PINNED
   The **long run average total cost curve** shows the relationship between input and average total cost when fixed cost has been chosen to minimize average total cost for each level of output. #definition 
   #+END_PINNED
+	- ![image.png](../assets/image_1699865420380_0.png)
+- increasing and decreasing and constant returns to scale definitions
