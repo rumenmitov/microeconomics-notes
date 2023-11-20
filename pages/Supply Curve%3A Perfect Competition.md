@@ -22,7 +22,7 @@ A **price-taking consumer** is a consumer who has no effect on the market price.
 - Conditions for perfectly competitive market:
 	- Many producers, none of whom have a *large market share*
 	  logseq.order-list-type:: number
-	- Producers regard all products as *equal*
+	- Consumers regard all products as *equal*
 	  logseq.order-list-type:: number
 	- There is *free entry and exit* into and from an industry
 	  logseq.order-list-type:: number
@@ -37,7 +37,7 @@ A **price-taking consumer** is a consumer who has no effect on the market price.
 	- #+BEGIN_IMPORTANT
 	  
 	  #+BEGIN_EXPORT latex
-	  
+	  \text{marginal revenue} = \frac{\Delta \text{ total revenue}}{\Delta \text{ quantity}}
 	  #+END_EXPORT 
 	  #+END_IMPORTANT
 - #+BEGIN_PINNED
@@ -45,7 +45,7 @@ A **price-taking consumer** is a consumer who has no effect on the market price.
   #+END_PINNED
 	- ![image.png](../assets/image_1699867619347_0.png)
 		- #+BEGIN_NOTE
-		  Since price-takers have no effect on the market, no matter of the quantity they produce, the market price will be constant (*MR*).
+		  Since price-takers have no effect on the market, no matter of the quantity they produce, the market price (*MR*) will be constant for all producers.
 		  #+END_NOTE
 - #+BEGIN_NOTE
   If total revenue > total cost, firm is *profitable*.
@@ -61,3 +61,16 @@ A **price-taking consumer** is a consumer who has no effect on the market price.
   The **break even price** is the price at which the firm earns zero profits. #definition 
   #+END_PINNED
 	- ![image.png](../assets/image_1699869216466_0.png)
+- #+BEGIN_PINNED
+  The **industry supply curve** shows the relationship between the *price of the good* and the *total output* of the industry. #definition 
+  #+END_PINNED
+	- ![image.png](../assets/image_1700467155386_0.png)
+	- ![image.png](../assets/image_1700467330014_0.png)
+	- #+BEGIN_NOTE
+	  As there are *profits* to be made, more suppliers will enter the market and the *supply curve* will shift. This will happen until ==total profit equals 0==.
+	  #+END_NOTE
+	- ![image.png](../assets/image_1700467911866_0.png)
+	- ![image.png](../assets/image_1700468642888_0.png)
+	- #+BEGIN_NOTE
+	  The lower *elasticity* of the long-term supply curve is due to the fact that it is easier to change up costs in the long-run.
+	  #+END_NOTE
