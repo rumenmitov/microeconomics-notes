@@ -27,6 +27,7 @@
 	- #+BEGIN_NOTE
 	  There are ==diminishing returns to an input== when an increase in the quantity of that input, holding all the other inputs fixed, leads to a decline in the *marginal product* of that input. 
 	  #+END_NOTE
+- Marginal Product = change of total output / change of input (labor)
 - #+BEGIN_PINNED
   A **fixed cost** is a cost that does not depend on the quantity of output produced. It is the cost of the *fixed input*. #definition 
   #+END_PINNED

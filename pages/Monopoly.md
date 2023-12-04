@@ -3,7 +3,7 @@
   A **monopolist** is a firm that is the only producer of a good that has ==no substitutes==.
   #+END_PINNED
 - #+BEGIN_PINNED
-  **Market power** is the ability of a *monopolist* to raise a price above the competition by reducing their output. #definition 
+  **Market power** is the ability of a *monopolist* to raise a price above the competition by *reducing their output*. #definition 
   #+END_PINNED
 	- ![image.png](../assets/image_1700472500365_0.png)
 - #+BEGIN_NOTE
@@ -26,13 +26,17 @@
 		  **Network externalities** mean that the value of a good rises as more people use it. #definition 
 		  #+END_PINNED
 	- Patents and copyrights -> incentivise innovation
-- #+BEGIN_NOTE
-  Remember: Marginal revenue = marginal cost applies for *all market structures*.
+- id:: 655b29a0-d7f9-452f-9470-5d6ffffe17ec
+  #+BEGIN_NOTE
+  *Remember:* Marginal revenue = marginal cost applies for *all market structures*.
   
-  However, for monopolies marginal revenue is *not equal to* price!
+  However, for all except perfect competition, marginal revenue is *not equal to* price!
   #+END_NOTE
 - ![image.png](../assets/image_1700473494227_0.png)
 	- This is because a monopolist can ==affect the price of a good==. An individual firm in a *competitive market* can sell as much as they want and they ==will not affect the market demand==.
+	- #+BEGIN_NOTE
+	  The ==marginal revenue curve== for a *perfectly competitive market* is the same as the ==demand curve==.
+	  #+END_NOTE
 - #+BEGIN_PINNED
   The **quantity effect** states that with one more unit sold, the *total revenue* increases by the price of the unit of the good sold. #definition 
   #+END_PINNED
@@ -68,3 +72,6 @@
 	  #+END_EXPORT 
 	  #+END_IMPORTANT
 - ![image.png](../assets/image_1700474404350_0.png)
+- ![image.png](../assets/image_1701072649015_0.png)
+- ![image.png](../assets/image_1701073652367_0.png)
+- price discrimination
