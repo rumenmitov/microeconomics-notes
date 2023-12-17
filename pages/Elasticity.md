@@ -86,8 +86,8 @@
 	  #+END_IMPORTANT
 	- ![image.png](../assets/image_1696838306548_0.png)
 	- When a price changes:
-		- *price effect* -> each unit has a different price
-		- *quantity effect* -> change in demand for good
+		- *price effect* $\implies$ each unit has a different price
+		- *quantity effect* $\implies$ change in demand for good
 		- ![image.png](../assets/image_1696838289039_0.png)
 - #+BEGIN_NOTE
   If a good is *elastic*, then the demand is very ==responsive==, meaning an ==increase in price== will ==reduce total revenue==.
@@ -124,11 +124,41 @@
 	- whether good is *necessity* or a *luxury*
 	- *share of income* spent on good
 	- time
-		- people find *substitutes* to mitigate price increases -> *inelastic* in the long run
+		- people find *substitutes* to mitigate price increases $\implies$ *elastic* in the long run
+	- inputs
+		- more readily *available inputs* $\implies$ *higher elasticity*
 - id:: 6523bd44-4121-47d0-807e-d113ed12811a
   #+BEGIN_PINNED
-  **Cross price elasticity** measures the effect of of the change in one good's price on the quantity of another good's price. #definition 
+  **Cross price elasticity** measures the effect of change in one good's demand on the quantity of another good's price. #definition 
   #+END_PINNED
+- Cross Price Elasticity Formula #formula
+	- #+BEGIN_IMPORTANT
+	  
+	  #+BEGIN_EXPORT latex
+	  \text{cross price elasticity of demand} = \frac{\% \Delta \text{ quantity of good A demanded}}{\% \Delta \text{ price of good B}}
+	  #+END_EXPORT 
+	  #+END_IMPORTANT
 - #+BEGIN_NOTE
-  Goods are *substitutes* when the *cross price elasticity* is ==positive==. 
+  Goods are *substitutes* when the *cross price elasticity* is ==positive== .
+  I.e. good B price increases $\iff$ good A demand increases
+  
+  If they are *complements* then *cross price elasticity* is ==negative==.
+  I.e. good B price increases $\iff$ good A demand decreases
+  #+END_NOTE
+- #+BEGIN_PINNED
+  **Income elasticity** measures the effect of change in one good's demand based on the consumer's *change in income*. #definition 
+  #+END_PINNED
+	- Income Elasticity Formula #formula
+		- #+BEGIN_IMPORTANT
+		  
+		  #+BEGIN_EXPORT latex
+		  \text{income elasticity of demand} = \frac{\% \Delta \text{ quantity of good A demanded}}{\% \Delta \text{ income}}
+		  #+END_EXPORT 
+		  #+END_IMPORTANT
+- #+BEGIN_NOTE
+  Good is *normal* when *income elasticity* is ==positive==.
+  I.e. income increases $\iff$ demand for good increases
+  
+  Good is *inferior* when *income elasticity* is ==negative==.
+  I.e. income increases $\iff$ demand for good decreases
   #+END_NOTE

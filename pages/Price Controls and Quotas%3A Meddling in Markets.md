@@ -1,6 +1,7 @@
 - #+BEGIN_PINNED
-  The **rebound effect** is #definition 
+  The **rebound effect** is when an increase in the *efficiency* of a good or service increases *demand* for that good or service. #definition 
   #+END_PINNED
+	- For example, making gas cars more fuel-efficient will make people want to drive more.
 - #+BEGIN_NOTE
   *Market equilibrium* may not be satisfactory if the *equilibrium price* is too high, which will price out many consumers out. The market may be working *efficiently*, since there is a balance between *consumers* and *producers*.
   #+END_NOTE

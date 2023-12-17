@@ -32,7 +32,7 @@
 			- In terms of coconuts:
 				- a coconut costs for Tom $\frac{4}{3}$ fish
 				- for Hank it costs $\frac{1}{2}$ fish
-			- Thus, even though Tom has an absolute advantage, it is still more beneficial for him to specialize in coconuts and trade for fish, since Hank has a comparative advantage in fish
+			- Thus, even though Tom has an *absolute advantage*, it is still more beneficial for him to *specialize in fish and trade for coconuts*, since Hank has a *comparative advantage* in coconuts
 			- #+BEGIN_NOTE
 			  Specializing also come with other benefits e.g. production can become more efficient.
 			  #+END_NOTE
