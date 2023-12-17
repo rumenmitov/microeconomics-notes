@@ -59,7 +59,6 @@
 	- #+BEGIN_NOTE
 	  There is also an *administrative cost* of collecting taxes.
 	  #+END_NOTE
-- tax rate
 - # Tax Fairness and Tax Efficiency
 	- #+BEGIN_PINNED
 	  The **ability-to-pay** principle means that people who are willing to pay more should pay more. #definition 
