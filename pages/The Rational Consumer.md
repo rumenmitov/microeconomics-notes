@@ -49,4 +49,5 @@
   The **income effect** is the *change of quantity of good consumed* because there is a change in the ==purchasing power== of the consumer. #definition 
   #+END_PINNED
 	-
-	- Normal goods
+	- *Normal goods* $\implies$ quantity demanded increases when income increases
+	- *Inferior goods* $\implies$ quantity demanded decreases when income increases
