@@ -41,7 +41,7 @@
   The **quantity effect** states that with one more unit sold, the *total revenue* increases by the price of the unit of the good sold. #definition 
   #+END_PINNED
 - #+BEGIN_PINNED
-  The **price effect** states that in order to sell the *last unit*, the monopolist must cur the *market price* on *all* units sold, decreasing *total revenue*. #definition 
+  The **price effect** states that in order to sell the *last unit*, the monopolist must cut the *market price* on *all* units sold, decreasing *total revenue*. #definition 
   #+END_PINNED
 - ![image.png](../assets/image_1700473828082_0.png)
 - Marginal Revenue Curve Gradient Formula #formula
@@ -74,4 +74,8 @@
 - ![image.png](../assets/image_1700474404350_0.png)
 - ![image.png](../assets/image_1701072649015_0.png)
 - ![image.png](../assets/image_1701073652367_0.png)
-- price discrimination
+- #+BEGIN_PINNED
+  **Perfect price discrimination** is when the *monopolist* charges everyone based on their *willingness to pay*, which eliminates *deadweight-loss*. #definition 
+  #+END_PINNED
+	- ![image.png](../assets/image_1702860518103_0.png)
+	- ![image.png](../assets/image_1702860530682_0.png)

@@ -7,7 +7,7 @@
 - #+BEGIN_PINNED
   A **variable input** is an input whose quantity the firm can vary. #definition 
   #+END_PINNED
-- A production formula can be written in the form as Y = f(L, K), where Y is *output*, L is *labor*, and K is *capital*.
+- A production formula can be written in the form as $Y = f(L, K)$, where Y is *output*, L is *labor*, and K is *capital*.
 - #+BEGIN_NOTE
   In the ==long run== all inputs can be varied.
   
@@ -21,13 +21,19 @@
 	  Fixed input in this example can be machinery and land area.
 	  #+END_NOTE
 - #+BEGIN_PINNED
-  The **marginal product** of an input is the additional quantity of output that is produced by using one more unit of input. #definition 
+  The **marginal product** of an input is the *additional quantity of output* that is produced by using one *more unit of input*. #definition 
   #+END_PINNED
 	- ![image.png](../assets/image_1699861095968_0.png)
 	- #+BEGIN_NOTE
 	  There are ==diminishing returns to an input== when an increase in the quantity of that input, holding all the other inputs fixed, leads to a decline in the *marginal product* of that input. 
 	  #+END_NOTE
-- Marginal Product = change of total output / change of input (labor)
+- Marginal Product Formula #formula
+	- #+BEGIN_IMPORTANT
+	  
+	  #+BEGIN_EXPORT latex
+	  \text{marginal product} = \frac{\Delta \text{unit of output}}{\Delta \text{unit of input}}
+	  #+END_EXPORT 
+	  #+END_IMPORTANT
 - #+BEGIN_PINNED
   A **fixed cost** is a cost that does not depend on the quantity of output produced. It is the cost of the *fixed input*. #definition 
   #+END_PINNED
